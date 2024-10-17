@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/BP_Actor_1.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/BP_Actor_2.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZT/C1OISV0EH158GLR07L9E4D.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SK/5ANT9U0ATJGBGXT2TV42YT.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/B5/T27HJJU2WK9GEKGAZ3A8WW.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y4/037VN79HTBNU2JTZGL7OZG.uasset",
+				"C:/Users/sasha/Documents/GitHub/ABC/commonProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6G/YE194H0G7M3P9H1KMAM7X0.uasset"
+			]
+		}
+	]
+}
